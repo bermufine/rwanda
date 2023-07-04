@@ -6,6 +6,14 @@
 
 {"descriptionRw":"BTN TV est une chaine televisee Rwandaise emmetant a Kigali et se diversite par sa diffusion des emitions exceptionnelle ainsi que des films nouveautes et plein d'autres. http://www.btnrwanda.com, Envoyer un message +250 788 676 458, bplusrwanda@gmail.com","sourceRw":["https://tv.livebcm.com:3844/live/btntvrwandalive.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzM3ODRf/bplus.jpg","titleRw":"BTN TV"},
 
-{"descriptionRw":"BP Plus est une chaine televisee Rwandaise emmetant a Kigali et se diversite par sa diffusion des emitions exceptionnelle ainsi que des films nouveautes et plein d'autres. http://www.btnrwanda.com, Envoyer un message +250 788 676 458, bplusrwanda@gmail.com","sourceRw":["https://goliveafrica.media:9998/live/61ccc887c0fc7/index.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzM3ODRf/bplus.jpg","titleRw":"BP PLUS TV"},
+{"descriptionRw":"B Plus est une chaine televisee Rwandaise emmetant a Kigali et se diversite par sa diffusion des emitions exceptionnelle ainsi que des films nouveautes et plein d'autres. http://www.btnrwanda.com, Envoyer un message +250 788 676 458, bplusrwanda@gmail.com","sourceRw":["https://tv.livebcm.com:3596/live/bplustvrwandalive.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzM3ODRf/bplus.jpg","titleRw":"B+ TV"},
 
-{"descriptionRw":"ISIBO TV is a digital television based in Rwanda, with a mix of Entertainment, music and trending news Programming. tel:+250 788 203 493.","sourceRw":["https://tv.livebcm.com:3192/live/isibotvlive.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzQxMDJf/isibotv.png","titleRw":"ISIBO TV"}]}]}
+{"descriptionRw":"ISIBO TV is a digital television based in Rwanda, with a mix of Entertainment, music and trending news Programming. tel:+250 788 203 493.","sourceRw":["https://tv.livebcm.com:3192/live/isibotvlive.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzQxMDJf/isibotv.png","titleRw":"ISIBO TV"},
+
+{"descriptionRw":"Flash TV is a digital television based in Rwanda, with a mix of Entertainment, music and trending news Programming.","sourceRw":["https://tv.livebcm.com:3169/live/flashtvrwandalive.m3u8
+m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzQxMDJf/isibotv.png","titleRw":"FLASH TV"},
+
+{"descriptionRw":"BTV is a digital television based in Rwanda, with a mix of Entertainment, music and trending news Programming.","sourceRw":["
+https://tv.livebcm.com:3580/live/btvrwandalive.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzQxMDJf/isibotv.png","titleRw":"BTV"},
+
+{"descriptionRw":"Ishusho TV is a digital television based in Rwanda, with a mix of Entertainment, music and trending news Programming. tel:+250 788 203 493.","sourceRw":["https://tv.livebcm.com:3425/stream/play.m3u8"],"subtitleRw":"By Channel","thumbRw":"https://od.lk/s/M18yNjk5MzQxMDJf/isibotv.png","titleRw":"ISHISHO TV"}]}]}
